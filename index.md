@@ -3,13 +3,15 @@
 
 ### About Me:
 ```markdown
-I attended Liverpool High School in New York and my two main interests were anything with software or psychology
+I attended Liverpool High School in New York and my two 
+main interests were anything with software or psychology
 
 Hobbies:
 - Reading
 - Drawing
 - Video Games
-- Listening to various types of metal at volumes that are horrible for my hearing
+- Listening to various types of metal at 
+  volumes that are horrible for my hearing
 - Looking at cute animals
 
 Books & Shows I recommend:
